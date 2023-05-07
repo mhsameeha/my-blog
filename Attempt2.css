@@ -1,0 +1,183 @@
+@import url(https://fonts.google.com/specimen/Climate+Crisis);
+
+body {
+    background-color: #344e41;
+
+}
+
+nav {
+    nav-left: auto;
+}
+
+.section {
+    /* position: absolute; */
+}
+
+.section1 {
+    /* float: left; */
+    clear: both;
+}
+
+#img1 {
+    width: 25%;
+    height: auto;
+    object-fit: cover;
+    border: #588157 solid 5px;
+    margin-top: 100px;
+    margin-left: 75px;
+    float: left;
+
+}
+
+#img2 {
+    width: 25%;
+    height: auto;
+    border: #588157 solid 5px;
+    margin-left: -100px;
+    float: left;
+
+
+}
+
+#img3 {
+    width: 25%;
+    height: auto;
+    border: #588157 solid 5px;
+    margin-top: 225px;
+    margin-left: -500px;
+    float: left;
+
+}
+
+body div div div div {
+    display: block;
+}
+
+.box1 * {
+    width: 400px;
+    height: 400px;
+    float: right;
+    margin-right: 50px;
+
+}
+
+#box1 {
+    margin-right: 70px;
+    margin-top: 100px;
+    float: right;
+}
+
+#box2 {
+    background-color: #dad7cd;
+    transform: rotate(10deg);
+}
+
+#box3 {
+    background-color: #a3b18a;
+    transform: rotate(8deg);
+    position: absolute;
+
+
+}
+
+#box4 {
+    background-color: #588157;
+    float: right;
+    transform: rotate(6deg);
+    position: absolute;
+
+
+}
+
+#box5 {
+    background-color: #3a5a40;
+    float: right;
+    transform: rotate(4deg);
+    position: absolute;
+}
+
+#box6 {
+    background-color: #1b4332;
+    width: 300px;
+    height: 300px;
+    padding: 50px;
+    font-family: 'tilt prism';
+    font-size: 28px;
+    color: white;
+    float: right;
+    position: absolute;
+}
+/* 
+.box2 {
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    border: 2px solid black;
+    margin: 70px;
+} */
+
+.photography {
+    width: 300px;
+    height: 300px;
+    padding: 5px;
+    margin: 60px;
+    border: #1b4332 solid;
+    /* position: relative; */
+
+}
+
+#box7 {
+    /* position: absolute; */
+    float: left;
+
+}
+
+#box8 {
+    /* position:absolute; */
+    float: left;
+}
+
+#box9 {
+    /* position:absolute; */
+    float: left;
+}
+
+ .P {
+    width: 32%;
+    height: 50px;
+    /* clear: both; */
+    float: left;
+    border: #344e41 solid;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 50px;
+    /* position: fixed; */
+}
+
+.W {
+    width: 32%;
+    height: 50px;
+    float:left;
+    border: #344e41 solid;
+
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* margin-top: -50px; */
+
+}
+
+.T {
+    width: 32%;
+    height: 50px;
+     float: right;
+     border: #344e41 solid;
+
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* margin-top: -50px; */
+
+}
+ a :hover{
+    width: 301px;
+    height: 301px;
+}

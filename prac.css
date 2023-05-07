@@ -1,0 +1,28 @@
+.default{
+    width: 100%;
+    height: 100px;
+    background-color: aquamarine;
+    float: left;
+
+}
+.float1{
+width: 75%;
+height: 800px;
+/* clear: both; */
+float: left;
+background-color: green;
+}
+.float2{
+width: 25%;
+height: 800px;
+float: right;
+background-color: orange;
+}
+.clear1{
+    width: 100%;
+    height: 100px;
+    clear: both;
+    float: left;
+    background-color: brown;
+
+}
